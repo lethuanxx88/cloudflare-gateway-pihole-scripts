@@ -25,6 +25,8 @@ urls=(
     https://raw.githubusercontent.com/Dogino/Discord-Phishing-URLs/main/official-domains.txt
     https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/whitelist.txt
     https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/android.txt
+    https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/domain.txt
+    https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
     https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/sensitive.txt
     https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/whitelist.txt
     https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/firefox.txt
